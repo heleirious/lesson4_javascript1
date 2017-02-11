@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 This assignment was about understanding how an application runs using variables and data. We learn how to create containers to input data where the program does the calculations and gives us a result.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://heleirious.github.io/lesson4_javascript1/.
 
 ### Lessons Learned in the Assignment:
 1. JavaScript is the most widely used scripting language. It is a clientside language and is easy to manuveur.
